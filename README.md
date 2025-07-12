@@ -11,17 +11,18 @@ Explore how I approached credit risk modeling, emotion recognition from speech, 
 ### 1. 💳 Credit Scoring Model
 A machine learning model that evaluates the creditworthiness of individuals based on financial and demographic data.
 
-📄 File: `credit scoring model.ipynb`
+📄 File: [`credit_scoring_model/credit scoring model.ipynb`](credit_scoring_model/credit scoring model.ipynb)
 
 ### 2. 🗣️ Emotion Speech Recognition
 A speech recognition model that classifies emotions from audio input using signal processing and machine learning techniques.
 
-📄 File: `emotion speech recognition.ipynb`
+📄 File: [`emotion_speech_recognition/emotion speech recognition.ipynb`](emotion_speech_recognition/emotion speech recognition.ipynb)
+
 
 ### 3. 🔤 CNN for Handwritten Alphabets
 A deep learning CNN-based project that classifies handwritten alphabet characters from image data.
 
-📄 File: `cnn-for-handwritten-alphabets.ipynb`
+📄 File: [`cnn_handwritten_alphabets/cnn-for-handwritten-alphabets.ipynb`](cnn_handwritten_alphabets/cnn-for-handwritten-alphabets.ipynb)
 
 ## 🛠️ Technologies Used
 - Python
