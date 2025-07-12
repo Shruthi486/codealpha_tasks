@@ -1,6 +1,9 @@
-# CodeAlpha Internship Tasks - July 2025
+# CodeAlpha Internship Projects – July 2025
+![CodeAlpha Internship](https://img.shields.io/badge/Internship-CodeAlpha-blueviolet)
 
-This repository contains the projects completed during my internship with **CodeAlpha** (July 2025 batch).
+Welcome to my portfolio of machine learning and deep learning projects built during my internship at **CodeAlpha**. Each project showcases real-world applications of AI, using modern tools and industry practices.
+
+Explore how I approached credit risk modeling, emotion recognition from speech, and image classification using CNNs.
 
 ## 📁 Projects Included
 
