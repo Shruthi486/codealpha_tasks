@@ -1,5 +1,7 @@
 # CodeAlpha Internship Projects – July 2025
 ![CodeAlpha Internship](https://img.shields.io/badge/Internship-CodeAlpha-blueviolet)
+![GitHub Repo stars](https://img.shields.io/github/stars/Shruthi486/codealpha_tasks?style=social)
+
 
 Welcome to my portfolio of machine learning and deep learning projects built during my internship at **CodeAlpha**. Each project showcases real-world applications of AI, using modern tools and industry practices.
 
