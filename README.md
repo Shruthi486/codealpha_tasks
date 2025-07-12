@@ -2,7 +2,7 @@
 ![CodeAlpha Internship](https://img.shields.io/badge/Internship-CodeAlpha-blueviolet)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Shruthi486/codealpha_tasks?style=social)
 
-📌 View this repository as part of my AI/ML internship portfolio.  
+📌 View this repository as part of my ML internship portfolio.  
 Feel free to ⭐ star or fork for reference!
 
 Welcome to my portfolio of machine learning and deep learning projects built during my internship at **CodeAlpha**. Each project showcases real-world applications of AI, using modern tools and industry practices.
